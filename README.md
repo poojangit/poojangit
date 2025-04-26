@@ -1,5 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Pooja N G! 👩
 
+I'm so glad you’re here, Welcome to my Github! 😀
 <!--
 **poojangit/poojangit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👀 Interests 
+• Java, Spring Boot, Webapp Development                                                                                                                                                                              
+• Always learning new technologies and tools                                                                                                                                                                         
+• Exploring new frameworks
+
+## 🌱 I’m currently learning ...
+• Webapp Angular                                                                                                                                                                                                     
+• Exploring advanced features in ReactJs 
+
+## 📫 How to reach me 
+• 📧 Email: poojang147@gmail.com                                                                                                                                                                                     
+• 🔗 LinkedIn: https://www.linkedin.com/in/pooja-n-g-8a438b193
