@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👀 Interests 
-• Java, Spring Boot, Webapp Development                                                                                                                                                                              
+• Java, React.js Webapp Development                                                                                                                                                                              
 • Always learning new technologies and tools                                                                                                                                                                         
 • Exploring new frameworks
 
 ## 🌱 I’m currently learning ...
 • Webapp Angular                                                                                                                                                                                                     
-• Exploring advanced features in ReactJs 
+• MEAN Full stack 
 
 ## 📫 How to reach me 
 • 📧 Email: poojang147@gmail.com                                                                                                                                                                                     
