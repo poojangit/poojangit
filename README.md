@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 ## 📫 How to reach me 
 • 📧 Email: poojang147@gmail.com                                                                                                                                                                                     
 • 🔗 LinkedIn: https://www.linkedin.com/in/pooja-n-g-8a438b193
+•  Bold profile : https://bold.pro/my/pooja-ng
